@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Wenyue Hua&#39;s Homepage</title>
-    <link>https://Wenyueh.github.io/publication/</link>
-      <atom:link href="https://Wenyueh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Projects | Wenyue Hua&#39;s Homepage</title>
+    <link>https://Wenyueh.github.io/project/</link>
+      <atom:link href="https://Wenyueh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://Wenyueh.github.io/publication/</link>
+      <title>Projects</title>
+      <link>https://Wenyueh.github.io/project/</link>
     </image>
     
     <item>
       <title>War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars</title>
-      <link>https://Wenyueh.github.io/publication/WarAgent/</link>
+      <link>https://Wenyueh.github.io/project/WarAgent/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/publication/WarAgent/</guid>
+      <guid>https://Wenyueh.github.io/project/WarAgent/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
