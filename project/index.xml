@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars</title>
-      <link>https://Wenyueh.github.io/project/WarAgent/</link>
+      <title>LLM for Recommender System</title>
+      <link>https://Wenyueh.github.io/project/LLM4RS/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/project/WarAgent/</guid>
+      <guid>https://Wenyueh.github.io/project/LLM4RS/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -35,7 +35,34 @@
 &lt;/div&gt;
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Can we avoid wars at the crossroads of history? This question has been pursued by individuals, scholars, policymakers, and organizations throughout human history. In this research, we attempt to answer the question based on the recent advances of Artificial Intelligence (AI) and Large Language Models (LLMs). We propose &lt;strong&gt;WarAgent&lt;/strong&gt;, an LLM-powered multi-agent AI system, to simulate the participating countries, their decisions, and the consequences, in historical international conflicts, including the World War I (WWI), the World War II (WWII), and the Warring States Period (WSP) in Ancient China. By evaluating the simulation effectiveness, we examine the advancements and limitations of cutting-edge AI systems&amp;rsquo; abilities in studying complex collective human behaviors such as international conflicts under diverse settings. In these simulations, the emergent interactions among agents also offer a novel perspective for examining the triggers and conditions that lead to war. Our findings offer data-driven and AI-augmented insights that can redefine how we approach conflict resolution and peacekeeping strategies. The implications stretch beyond historical analysis, offering a blueprint for using AI to understand human history and possibly prevent future international conflicts. Code and data are available at &lt;a href=&#34;https://github.com/agiresearch/WarAgent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this url&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LLM-based Agent and Multi-agent System</title>
+      <link>https://Wenyueh.github.io/project/Agent/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/project/Agent/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

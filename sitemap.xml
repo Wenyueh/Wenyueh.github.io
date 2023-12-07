@@ -2,20 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Wenyueh.github.io/project/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <loc>https://Wenyueh.github.io/publication/LLMAO/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/publication/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/project/LLM4RS/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Wenyueh.github.io/project/WarAgent/</loc>
+    <loc>https://Wenyueh.github.io/project/Agent/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/project/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/publication/WarAgent/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/openp5/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/indexing/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/OpenAGI/</loc>
+    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/fairness/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/</loc>
