@@ -174,5 +174,222 @@
 </description>
     </item>
     
+    <item>
+      <title>Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing</title>
+      <link>https://Wenyueh.github.io/publication/domino/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/domino/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Current natural language processing (NLP) models such as BERT and RoBERTa have achieved high overall performance, but they often make systematic errors due to bias or certain difficult features to learn. Thus research on slice detection models (SDM) which automatically identifies underperforming groups of datapoints has gradually caught more attention, which aims at both understanding model behaviors and providing insights for future model training and designing. However, there is little systematic research on SDM and quantitative evaluation of its assessment for NLP models. Our paper fills this gap by proposing &amp;ldquo;Discover, Explanation, Improvement&amp;rdquo; framework that discovers coherent and underperforming groups of datapoints and unites datapoints of each slice under human-understandable concepts; it also provides comprehensive evaluation tasks and the corresponding quantitative metrics, which enable convenient comparison for future works. Results show that our framework can accurately select error-prone datapoints with informative semantic features that summarize error patterns, based on which it directly boosts model performance by an average of 2.85 points based on trained models without tuning any parameters across multiple datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System 1&#43; System 2= Better World: Neural-Symbolic Chain of Logic Reasoning</title>
+      <link>https://Wenyueh.github.io/publication/system12/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/system12/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Logical reasoning is a challenge for many current NLP neural network models since it requires more than the ability of learning informative representations from data. Inspired by the Dual Process Theory in cognitive science—which proposes that human cognition process involves two stages: an intuitive, unconscious and fast process relying on perception calledSystem 1, and a logical, conscious and slow process performing complex reasoning called System 2—we leverage neural logic reasoning (System 2) on top of the representation learning models (System 1), which conducts explicit neural-based differentiable logical reasoning on top of the representations learned by the base neural models. Based on experiments on the commonsense knowledge graph completion task, we show that the two-system architecture always improves from its System 1 model alone. Experiments also show that both the rule-driven logical regularizer and the data-driven value regularizer are important and the performance improvement is marginal without the two regularizers, which indicates that learning from both logical prior and training data is important for reasoning tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EntQA: Entity linking as question answering</title>
+      <link>https://Wenyueh.github.io/publication/entqa/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/entqa/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A conventional approach to entity linking is to first find mentions in a given document and then infer their underlying entities in the knowledge base. A well-known limitation of this approach is that it requires finding mentions without knowing their entities, which is unnatural and difficult. We present a new model that does not suffer from this limitation called EntQA, which stands for Entity linking as Question Answering. EntQA first proposes candidate entities with a fast retrieval module, and then scrutinizes the document to find mentions of each candidate with a powerful reader module. Our approach combines progress in entity linking with that in open-domain question answering and capitalizes on pretrained models for dense entity retrieval and reading comprehension. Unlike in previous works, we do not rely on a mention-candidates dictionary or large-scale weak supervision. EntQA achieves strong results on the GERBIL benchmarking platform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning input strictly local functions from their composition</title>
+      <link>https://Wenyueh.github.io/publication/icgi/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/icgi/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper studies the learning of two functions given positive samples of their composition, motivated by an empirical problem in natural language phonology. Empirically relevant conditions under which this is possible are identified and a provably correct algorithm is given that can semi-strongly identify the two functions in polynomial time and data. In order to clearly illustrate the learning problem and related concepts, we focus on a simple subset of input strictly 2-local functions. But we further argue that the general learning procedure we propose can be extended to more general classes of functions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Underlying Representations and Input-Strictly-Local Functions</title>
+      <link>https://Wenyueh.github.io/publication/underlying/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/underlying/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The simultaneous inference of underlying representations (URs) and a phonological grammar from alternating surface representations (SRs) in a morphological paradigm is a core problem in phonological learning that only recently has seen progress (Tesar, 2014; Cotterell et al., 2015; Rasin et al., 2018). This paper proposes a learning algorithm that infers URs and phonological processes from SRs based on the hypothesis that phonological generalizations belong to restrictive subregular regions in the Chomsky Hierarchy (Heinz, 2018). We give a procedure that, given sequences of morphemes paired with SRs, learns URs and a phonological grammar that is an input strictly local (ISL; Chandlee, 2014; Chandlee &amp;amp; Heinz, 2018) function. ISL functions are exactly those which make changes in the output with respect to the local information in the input. For now, the procedure is restricted to simplex ISL processes; that is, those exhibiting a single change. However, this illustrates that restrictive computational principles, combined with major principles in phonological analysis, allow for significant progress in understanding how phonological grammars and URs are learned.
+The paper is organized as follows. Section 2 briefly introduces the paradigm of the learning algorithm. Section 3 discusses the computational structure encoded in the learner. Section 4 is a detailed explanation of the algorithm with a simple example as illustration. Section 5 compares this algorithm with other algorithms and presents its advantages. The last section concludes the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Complexity in Optional Syllabification of Yavapai</title>
+      <link>https://Wenyueh.github.io/publication/yavapai/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/yavapai/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In addition to the substance in phonology, a number of researchers have argued that computation also matters in phonology. Using the data in Yavapai (Yuman language), I show that other than an OT analysis focusing mainly on substance, a computational analysis is necessary for explaining the complex syllabification processes and the frequencies of optional surface representations due to different syllabifications. I will use computational complexity encoded in subregular hierarchy as the main technical tool in the computational analysis. Our main hypothesis is that when both SRs are well-formed based on the syllable phonotactics, the one less complex to generate is more frequently attested. The paper shows that the syllabification pattern in Yavapai necessarily requires a computational motivation, which in turn shows that computational property is a crucial factor in phonological transformations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free choice disjunction of propositions in generic sentences</title>
+      <link>https://Wenyueh.github.io/publication/freechoice/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/freechoice/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Disjunction is used to connect multiple options when there is insufficient information to determine which one is true. However, free choice disjunction defies this simple fact &amp;ndash; when a disjunction acts as a free choice operator, all options are true. The usage of free choice disjunction is observed to usually co-occur with modals, pluralities, etc. This paper introduces a novel observation of sentences with free choice disjunction in English. Multiple data points are presented to demonstrate the semantic distribution. I propose that free choice reading in disjunctions depends on three factors &amp;ndash;the sentence’s genericity, scope of the disjunction and disjuncts being imperfect nominals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression</title>
+      <link>https://Wenyueh.github.io/publication/predicate/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/predicate/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Existing OIE (Open Information Extraction) algorithms are independent of each other such that there exist lots of redundant works; the featured strategies are not reusable and not adaptive to new tasks. This paper proposes a new pipeline to build OIE systems, where an Open-domain Information eXpression (OIX) task is proposed to provide a platform for all OIE strategies. The OIX is an OIE friendly expression of a sentence without information loss. The generation procedure of OIX contains shared works of OIE algorithms so that OIE strategies can be developed on the platform of OIX as inference operations focusing on more critical problems. Based on the same platform of OIX, the OIE strategies are reusable, and people can select a set of strategies to assemble their algorithm for a specific task so that the adaptability may be significantly increased. This paper focuses on the task of OIX and propose a solution–Open Information Annotation (OIA). OIA is a predicate-function-argument annotation for sentences. We label a data set of sentence-OIA pairs and propose a dependency-based rule system to generate OIA annotations from sentences. The evaluation results reveal that learning the OIA from a sentence is a challenge owing to the complexity of natural language sentences, and it is worthy of attracting more attention from the research community.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

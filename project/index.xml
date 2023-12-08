@@ -13,33 +13,6 @@
     </image>
     
     <item>
-      <title>LLM for Recommender System</title>
-      <link>https://Wenyueh.github.io/project/LLM4RS/</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/project/LLM4RS/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>LLM-based Agent and Multi-agent System</title>
       <link>https://Wenyueh.github.io/project/Agent/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
@@ -62,7 +35,88 @@
 &lt;/div&gt;
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Artificial Intelligence (AI) aims to emulate Human Intelligence (HI) in combining basic skills to address complex tasks. AI agents is an especially important step the development of AI, which should integrate expert models and external tools for solving intricate problems, a step towards achieving Artificial General Intelligence (AGI). Large Language Models (LLMs) demonstrate notable capabilities in learning and reasoning and are proficient in employing external models, tools, plugins, or APIs for complex problem-solving. LLM-based agents are essentially LLMs enhanced with access to these additional resources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LLM for Recommender System</title>
+      <link>https://Wenyueh.github.io/project/LLM4RS/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/project/LLM4RS/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The integration of foundation models like Large Language Models (LLMs) into recommender systems (RS) marks a significant advancement in the field. Adapting LLMs to recommender systems that manage billions of users and items presents a complex yet crucial challenge. This exploration delves into the benefits and potential issues of utilizing LLMs within recommender systems, contributing to advancements in this area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pre-LLM NLP</title>
+      <link>https://Wenyueh.github.io/project/pre-LLM-NLP/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/project/pre-LLM-NLP/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Some works before the advent of giant LLM &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formal Linguistics and Computational Linguistics</title>
+      <link>https://Wenyueh.github.io/project/linguistics/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/project/linguistics/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Formal linguistics is a branch of linguistics that focuses on the study of language using formal methods derived from mathematics and logic. It aims to understand the underlying structure of language by constructing precise, well-defined models of its syntax, semantics, and phonology. The key aspects of formal linguistics include (1) Syntax &amp;ndash; This involves the study of the rules and principles that govern the structure of sentences. Formal syntactic theories explore how words combine to form grammatical sentences and the underlying rules that govern these combinations. (2) Semantics &amp;ndash; This aspect deals with the meaning of words, phrases, and sentences. Formal semantics seeks to represent and analyze the ways in which linguistic expressions can convey different meanings in different contexts. (3) Phonology &amp;ndash; This is the study of the sound systems of languages, including the rules for combining sounds into meaningful units or words. Formal phonology models the abstract sound structures of language and their functional roles.&lt;/p&gt;
 </description>
     </item>
     

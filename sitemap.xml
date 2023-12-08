@@ -10,10 +10,6 @@
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Wenyueh.github.io/project/LLM4RS/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Wenyueh.github.io/project/Agent/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,6 +30,10 @@
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://Wenyueh.github.io/project/LLM4RS/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Wenyueh.github.io/publication/OpenAGI/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -42,8 +42,48 @@
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://Wenyueh.github.io/publication/domino/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Wenyueh.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/system12/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/project/pre-LLM-NLP/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/entqa/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/project/linguistics/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/icgi/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/underlying/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/yavapai/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/freechoice/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/publication/predicate/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/slides/</loc>
