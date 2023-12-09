@@ -94,6 +94,33 @@
     </item>
     
     <item>
+      <title>Tutorial on Large Language Models for Recommendation</title>
+      <link>https://Wenyueh.github.io/publication/tutorial/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/tutorial/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Foundation Models such as Large Language Models (LLMs) have significantly advanced many research areas. In particular, LLMs offer significant advantages for recommender systems, making them valuable tools for personalized recommendations. For example, by formulating various recommendation tasks such as rating prediction, sequential recommendation, straightforward recommendation, and explanation generation into language instructions, LLMs make it possible to build universal recommendation engines that can handle different recommendation tasks. Additionally, LLMs have a remarkable capacity for understanding natural language, enabling them to comprehend user preferences, item descriptions, and contextual information to generate more accurate and relevant recommendations, leading to improved user satisfaction and engagement. This tutorial introduces Foundation Models such as LLMs for recommendation. We will introduce how recommender system advanced from shallow models to deep models and to large models, how LLMs enable generative recommendation in contrast to traditional discriminative recommendation, and how to build LLM-based recommender systems. We will cover multiple perspectives of LLM-based recommendation, including data preparation, model design, model pre-training, fine-tuning and prompting, multi-modality and multi-task learning, as well as trustworthy perspectives of LLM-based recommender systems such as fairness and transparency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OpenP5: Benchmarking Foundation Models for Recommendation</title>
       <link>https://Wenyueh.github.io/publication/openp5/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
