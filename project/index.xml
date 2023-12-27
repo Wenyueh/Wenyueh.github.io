@@ -5,12 +5,39 @@
     <link>https://Wenyueh.github.io/project/</link>
       <atom:link href="https://Wenyueh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://Wenyueh.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>LLM &amp; NLP</title>
+      <link>https://Wenyueh.github.io/project/LLM-NLP/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/project/LLM-NLP/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Large language models (LLMs) like OpenAI&amp;rsquo;s GPT series have revolutionized the field of natural language processing (NLP) by demonstrating an impressive ability to understand and generate human language. A key aspect of these models is their reasoning ability, which is a subject of growing interest and investigation. I am particularly focused on exploring the reasoning capabilities in LLMs. This includes understanding the mechanisms that facilitate reasoning within these models, assessing the extent to which LLMs are capable of conducting reasoning processes, and discerning between genuine reasoning and the mere mimicking of patterns observed in pre-trained data.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LLM-based Agent and Multi-agent System</title>
@@ -63,33 +90,6 @@
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The integration of foundation models like Large Language Models (LLMs) into recommender systems (RS) marks a significant advancement in the field. Adapting LLMs to recommender systems that manage billions of users and items presents a complex yet crucial challenge. This exploration delves into the benefits and potential issues of utilizing LLMs within recommender systems, contributing to advancements in this area.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>pre-LLM NLP</title>
-      <link>https://Wenyueh.github.io/project/pre-LLM-NLP/</link>
-      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/project/pre-LLM-NLP/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Some works before the advent of giant LLM &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
