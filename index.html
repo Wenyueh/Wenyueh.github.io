@@ -1885,9 +1885,8 @@
 
   <span class="author-highlighted">
       Wenyue Hua</span>, <span >
-      Lei Li</span>, <span >
       Shuyuan Xu</span>, <span >
-      Chen Li</span>, <span >
+      Yingqiang Ge</span>, <span >
       Yongfeng Zhang</span>
   </div>
   
@@ -1899,7 +1898,7 @@
     
       
     
-    September, 2023
+    May, 2023
   </span>
   
 
@@ -1928,22 +1927,22 @@
   
   
     
-    <a href="/publication/tutorial/" >
+    <a href="/publication/indexing/" >
       <div class="img-hover-zoom">
-        <img src="/publication/tutorial/featured_hu4cd53fa0df88354bca332820b071f591_1147799_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
-            class="article-banner" alt="Tutorial on Large Language Models for Recommendation" loading="lazy">
+        <img src="/publication/indexing/featured_hu36a3f0b88bb3afe553f1e1f15bf43009_1075758_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+            class="article-banner" alt="How to Index Item IDs for Recommendation Foundation Models" loading="lazy">
       </div>
     </a>
   
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="/publication/tutorial/" >Tutorial on Large Language Models for Recommendation</a>
+    <a href="/publication/indexing/" >How to Index Item IDs for Recommendation Foundation Models</a>
   </div>
 
   
-  <a href="/publication/tutorial/"  class="summary-link">
+  <a href="/publication/indexing/"  class="summary-link">
     <div class="article-style">
-      <p>Foundation Models such as Large Language Models (LLMs) have significantly advanced many research areas. In particular, LLMs offer significant advantages for recommender systems, making them valuable tools for personalized recommendations. For example, by formulating various recommendation tasks such as rating prediction, sequential recommendation, straightforward recommendation, and explanation generation into language instructions, LLMs make it possible to build universal recommendation engines that can handle different recommendation tasks. Additionally, LLMs have a remarkable capacity for understanding natural language, enabling them to comprehend user preferences, item descriptions, and contextual information to generate more accurate and relevant recommendations, leading to improved user satisfaction and engagement. This tutorial introduces Foundation Models such as LLMs for recommendation. We will introduce how recommender system advanced from shallow models to deep models and to large models, how LLMs enable generative recommendation in contrast to traditional discriminative recommendation, and how to build LLM-based recommender systems. We will cover multiple perspectives of LLM-based recommendation, including data preparation, model design, model pre-training, fine-tuning and prompting, multi-modality and multi-task learning, as well as trustworthy perspectives of LLM-based recommender systems such as fairness and transparency.</p>
+      <p>Recommendation foundation model utilizes large language models (LLM) for recommendation by converting recommendation tasks into natural language tasks. It enables generative recommendation which directly generates the item(s) to recommend rather than calculating a ranking score for each and every candidate item as in traditional recommendation models, simplifying the recommendation pipeline from multi-stage filtering to single-stage filtering. To avoid generating excessively long text and hallucinated recommendations when deciding which item(s) to recommend, creating LLM-compatible item IDs to uniquely identify each item is essential for recommendation foundation models. In this study, we systematically examine the item ID creation and indexing problem for recommendation foundation models, using P5 as an example of the backbone LLM. To emphasize the importance of item indexing, we first discuss the issues of several trivial item indexing methods, such as random indexing, title indexing, and independent indexing. We then propose four simple yet effective solutions, including sequential indexing, collaborative indexing, semantic (content-based) indexing, and hybrid indexing. Our study highlights the significant influence of item indexing methods on the performance of LLM-based recommendation, and our results on real-world datasets validate the effectiveness of our proposed solutions. The research also demonstrates how recent advances on language modeling and traditional IR principles such as indexing can help each other for better learning and inference. Source code and data are available at <a href="https://github.com/Wenyueh/LLM-RecSys-ID" target="_blank" rel="noopener">this url</a>.</p>
     </div>
   </a>
   
@@ -1960,13 +1959,19 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2305.06569.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/tutorial/cite.bib">
+        data-filename="/publication/indexing/cite.bib">
   Cite
 </a>
 
@@ -1975,18 +1980,10 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://llmrecsys.github.io/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/Wenyueh/LLM-RecSys-ID" target="_blank" rel="noopener">
   Code
 </a>
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.yongfeng.me/attach/hua-recsys2023.pdf" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
 
@@ -2043,8 +2040,13 @@
     
 
   <span >
-      Shuyuan Xu</span>, <span class="author-highlighted">
+      Yingqiang Ge</span>, <span class="author-highlighted">
       Wenyue Hua</span>, <span >
+      Kai Mei</span>, <span >
+      Jianchao Ji</span>, <span >
+      Juntao Tan</span>, <span >
+      Shuyuan Xu</span>, <span >
+      Zelong Li</span>, <span >
       Yongfeng Zhang</span>
   </div>
   
@@ -2056,7 +2058,7 @@
     
       
     
-    June, 2023
+    April, 2023
   </span>
   
 
@@ -2085,22 +2087,22 @@
   
   
     
-    <a href="/publication/openp5/" >
+    <a href="/publication/OpenAGI/" >
       <div class="img-hover-zoom">
-        <img src="/publication/openp5/featured_hu37be87e0ed42dc1d7f88c1867915636e_314445_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
-            class="article-banner" alt="OpenP5: Benchmarking Foundation Models for Recommendation" loading="lazy">
+        <img src="/publication/OpenAGI/featured_hud88ff282a497b5d9f16311b23d6f19b9_1315780_808x455_fill_q75_h2_lanczos_smart1_3.webp" height="455" width="808"
+            class="article-banner" alt="OpenAGI: When LLM Meets Domain Experts" loading="lazy">
       </div>
     </a>
   
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="/publication/openp5/" >OpenP5: Benchmarking Foundation Models for Recommendation</a>
+    <a href="/publication/OpenAGI/" >OpenAGI: When LLM Meets Domain Experts</a>
   </div>
 
   
-  <a href="/publication/openp5/"  class="summary-link">
+  <a href="/publication/OpenAGI/"  class="summary-link">
     <div class="article-style">
-      <p>This paper presents OpenP5, an open-source library for benchmarking foundation models for recommendation under the Pre-train, Personalized Prompt and Predict Paradigm (P5). We consider the implementation of P5 on three dimensions &ndash; 1) downstream task, 2) recommendation dataset, and 3) item indexing method. For 1), we provide implementation over two downstream tasks &ndash; sequential recommendation and straightforward recommendation. For 2), we surveyed frequently used datasets in recommender system research in recent years and provide implementation on ten datasets. In particular, we provide both single-dataset implementation and the corresponding checkpoints (P5) and another Super P5 (SP5) implementation that is pre-trained on all of the datasets, which supports recommendation across various domains with one model. For 3), we provide implementation of three item indexing methods to create item IDs &ndash; random indexing, sequential indexing, and collaborative indexing. We also provide comprehensive evaluation results of the library over the two downstream tasks, the ten datasets, and the three item indexing methods to facilitate reproducibility and future research. We open-source the code and the pre-trained checkpoints of the OpenP5 library at <a href="https://github.com/agiresearch/OpenP5" target="_blank" rel="noopener">this url</a>.</p>
+      <p>Human Intelligence (HI) excels at combining basic skills to solve complex tasks. This capability is vital for Artificial Intelligence (AI) and should be embedded in comprehensive AI Agents, enabling them to harness expert models for complex task-solving towards Artificial General Intelligence (AGI). Large Language Models (LLMs) show promising learning and reasoning abilities, and can effectively use external models, tools, plugins, or APIs to tackle complex problems. In this work, we introduce OpenAGI, an open-source AGI research and development platform designed for solving multi-step, real-world tasks. Specifically, OpenAGI uses a dual strategy, integrating standard benchmark tasks for benchmarking and evaluation, and open-ended tasks including more expandable models, tools, plugins, or APIs for creative problem-solving. Tasks are presented as natural language queries to the LLM, which then selects and executes appropriate models. We also propose a Reinforcement Learning from Task Feedback (RLTF) mechanism that uses task results to improve the LLM&rsquo;s task-solving ability, which creates a self-improving AI feedback loop. While we acknowledge that AGI is a broad and multifaceted research challenge with no singularly defined solution path, the integration of LLMs with domain-specific expert models, inspired by mirroring the blend of general and specialized intelligence in humans, offers a promising approach towards AGI. We are open-sourcing the OpenAGI project&rsquo;s code, dataset, benchmarks, evaluation methods, and the UI demo to foster community involvement in AGI advancement here <a href="https://github.com/agiresearch/OpenAGI" target="_blank" rel="noopener">this url</a>.</p>
     </div>
   </a>
   
@@ -2122,14 +2124,14 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2306.11134.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2304.04370.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/openp5/cite.bib">
+        data-filename="/publication/OpenAGI/cite.bib">
   Cite
 </a>
 
@@ -2138,7 +2140,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/agiresearch/OpenP5" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/agiresearch/OpenAGI" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -2146,7 +2148,7 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/LLM4RS/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/Agent/">
     Project
   </a>
   
