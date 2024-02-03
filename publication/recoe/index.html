@@ -279,12 +279,12 @@
 
   
 
-<meta name="description" content="Recommendation foundation model utilizes large language models (LLM) for recommendation by converting recommendation tasks into natural language tasks. It enables generative recommendation which directly generates the item(s) to recommend rather than calculating a ranking score for each and every candidate item as in traditional recommendation models, simplifying the recommendation pipeline from multi-stage filtering to single-stage filtering. To avoid generating excessively long text and hallucinated recommendations when deciding which item(s) to recommend, creating LLM-compatible item IDs to uniquely identify each item is essential for recommendation foundation models. In this study, we systematically examine the item ID creation and indexing problem for recommendation foundation models, using P5 as an example of the backbone LLM. To emphasize the importance of item indexing, we first discuss the issues of several trivial item indexing methods, such as random indexing, title indexing, and independent indexing. We then propose four simple yet effective solutions, including sequential indexing, collaborative indexing, semantic (content-based) indexing, and hybrid indexing. Our study highlights the significant influence of item indexing methods on the performance of LLM-based recommendation, and our results on real-world datasets validate the effectiveness of our proposed solutions. The research also demonstrates how recent advances on language modeling and traditional IR principles such as indexing can help each other for better learning and inference. Source code and data are available at [this url](https://github.com/Wenyueh/LLM-RecSys-ID)." />
+<meta name="description" content="Current approaches of knowledge editing struggle to effectively propagate updates to interconnected facts. In this work, we delve into the barriers that hinder the appropriate propagation of updated knowledge within these models for accurate reasoning. To support our analysis, we introduce a novel reasoning-based benchmark -- ReCoE (Reasoning-based Counterfactual Editing dataset) -- which covers six common reasoning schemes in real world. We conduct a thorough analysis of existing knowledge editing techniques, including input augmentation, finetuning, and locate-and-edit. We found that all model editing methods show notably low performance on this dataset, especially in certain reasoning schemes. Our analysis over the chain-of-thought generation of edited models further uncover key reasons behind the inadequacy of existing knowledge editing methods from a reasoning standpoint, involving aspects on fact-wise editing, fact recall ability, and coherence in generation. We will make our benchmark publicly available." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://Wenyueh.github.io/publication/indexing/" />
-<link rel="canonical" href="https://Wenyueh.github.io/publication/indexing/" />
+<link rel="alternate" hreflang="en-us" href="https://Wenyueh.github.io/publication/recoe/" />
+<link rel="canonical" href="https://Wenyueh.github.io/publication/recoe/" />
 
 
 
@@ -317,20 +317,20 @@
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://Wenyueh.github.io/publication/indexing/featured.png" />
+<meta property="twitter:image" content="https://Wenyueh.github.io/publication/recoe/featured.png" />
 <meta property="og:site_name" content="Wenyue Hua&#39;s Homepage" />
-<meta property="og:url" content="https://Wenyueh.github.io/publication/indexing/" />
-<meta property="og:title" content="How to Index Item IDs for Recommendation Foundation Models | Wenyue Hua&#39;s Homepage" />
-<meta property="og:description" content="Recommendation foundation model utilizes large language models (LLM) for recommendation by converting recommendation tasks into natural language tasks. It enables generative recommendation which directly generates the item(s) to recommend rather than calculating a ranking score for each and every candidate item as in traditional recommendation models, simplifying the recommendation pipeline from multi-stage filtering to single-stage filtering. To avoid generating excessively long text and hallucinated recommendations when deciding which item(s) to recommend, creating LLM-compatible item IDs to uniquely identify each item is essential for recommendation foundation models. In this study, we systematically examine the item ID creation and indexing problem for recommendation foundation models, using P5 as an example of the backbone LLM. To emphasize the importance of item indexing, we first discuss the issues of several trivial item indexing methods, such as random indexing, title indexing, and independent indexing. We then propose four simple yet effective solutions, including sequential indexing, collaborative indexing, semantic (content-based) indexing, and hybrid indexing. Our study highlights the significant influence of item indexing methods on the performance of LLM-based recommendation, and our results on real-world datasets validate the effectiveness of our proposed solutions. The research also demonstrates how recent advances on language modeling and traditional IR principles such as indexing can help each other for better learning and inference. Source code and data are available at [this url](https://github.com/Wenyueh/LLM-RecSys-ID)." /><meta property="og:image" content="https://Wenyueh.github.io/publication/indexing/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://Wenyueh.github.io/publication/recoe/" />
+<meta property="og:title" content="Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks | Wenyue Hua&#39;s Homepage" />
+<meta property="og:description" content="Current approaches of knowledge editing struggle to effectively propagate updates to interconnected facts. In this work, we delve into the barriers that hinder the appropriate propagation of updated knowledge within these models for accurate reasoning. To support our analysis, we introduce a novel reasoning-based benchmark -- ReCoE (Reasoning-based Counterfactual Editing dataset) -- which covers six common reasoning schemes in real world. We conduct a thorough analysis of existing knowledge editing techniques, including input augmentation, finetuning, and locate-and-edit. We found that all model editing methods show notably low performance on this dataset, especially in certain reasoning schemes. Our analysis over the chain-of-thought generation of edited models further uncover key reasons behind the inadequacy of existing knowledge editing methods from a reasoning standpoint, involving aspects on fact-wise editing, fact recall ability, and coherence in generation. We will make our benchmark publicly available." /><meta property="og:image" content="https://Wenyueh.github.io/publication/recoe/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-05-11T00:00:00&#43;00:00"
+      content="2023-12-31T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-05-11T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-12-31T00:00:00&#43;00:00">
   
 
 
@@ -354,16 +354,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://Wenyueh.github.io/publication/indexing/"
+    "@id": "https://Wenyueh.github.io/publication/recoe/"
   },
-  "headline": "How to Index Item IDs for Recommendation Foundation Models",
+  "headline": "Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks",
   
   "image": [
-    "https://Wenyueh.github.io/publication/indexing/featured.png"
+    "https://Wenyueh.github.io/publication/recoe/featured.png"
   ],
   
-  "datePublished": "2023-05-11T00:00:00Z",
-  "dateModified": "2023-05-11T00:00:00Z",
+  "datePublished": "2023-12-31T00:00:00Z",
+  "dateModified": "2023-12-31T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -378,7 +378,7 @@
       "url": "https://Wenyueh.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Recommendation foundation model utilizes large language models (LLM) for recommendation by converting recommendation tasks into natural language tasks. It enables generative recommendation which directly generates the item(s) to recommend rather than calculating a ranking score for each and every candidate item as in traditional recommendation models, simplifying the recommendation pipeline from multi-stage filtering to single-stage filtering. To avoid generating excessively long text and hallucinated recommendations when deciding which item(s) to recommend, creating LLM-compatible item IDs to uniquely identify each item is essential for recommendation foundation models. In this study, we systematically examine the item ID creation and indexing problem for recommendation foundation models, using P5 as an example of the backbone LLM. To emphasize the importance of item indexing, we first discuss the issues of several trivial item indexing methods, such as random indexing, title indexing, and independent indexing. We then propose four simple yet effective solutions, including sequential indexing, collaborative indexing, semantic (content-based) indexing, and hybrid indexing. Our study highlights the significant influence of item indexing methods on the performance of LLM-based recommendation, and our results on real-world datasets validate the effectiveness of our proposed solutions. The research also demonstrates how recent advances on language modeling and traditional IR principles such as indexing can help each other for better learning and inference. Source code and data are available at [this url](https://github.com/Wenyueh/LLM-RecSys-ID)."
+  "description": "Current approaches of knowledge editing struggle to effectively propagate updates to interconnected facts. In this work, we delve into the barriers that hinder the appropriate propagation of updated knowledge within these models for accurate reasoning. To support our analysis, we introduce a novel reasoning-based benchmark -- ReCoE (Reasoning-based Counterfactual Editing dataset) -- which covers six common reasoning schemes in real world. We conduct a thorough analysis of existing knowledge editing techniques, including input augmentation, finetuning, and locate-and-edit. We found that all model editing methods show notably low performance on this dataset, especially in certain reasoning schemes. Our analysis over the chain-of-thought generation of edited models further uncover key reasons behind the inadequacy of existing knowledge editing methods from a reasoning standpoint, involving aspects on fact-wise editing, fact recall ability, and coherence in generation. We will make our benchmark publicly available."
 }
 </script>
 
@@ -400,7 +400,7 @@
 
 
   
-  <title>How to Index Item IDs for Recommendation Foundation Models | Wenyue Hua&#39;s Homepage</title>
+  <title>Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks | Wenyue Hua&#39;s Homepage</title>
 
   
   
@@ -420,7 +420,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="08dd04d4221e0c6c57dbe81260cb5eb1" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ece1c9bbaf9dae6db91ec13c7ff38f11" >
 
   
   
@@ -749,7 +749,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>How to Index Item IDs for Recommendation Foundation Models</h1>
+  <h1>Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks</h1>
 
   
 
@@ -767,9 +767,11 @@
 
   <span class="author-highlighted">
       Wenyue Hua</span>, <span >
-      Shuyuan Xu</span>, <span >
-      Yingqiang Ge</span>, <span >
-      Yongfeng Zhang</span>
+      Jiang Guo</span>, <span >
+      Mingwen Dong</span>, <span >
+      Henghui Zhu</span>, <span >
+      Patrick Ng</span>, <span >
+      Zhiguo Wang</span>
   </div>
   
   
@@ -780,7 +782,7 @@
     
       
     
-    May, 2023
+    December, 2023
   </span>
   
 
@@ -820,31 +822,23 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2305.06569.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2401.17585" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/indexing/cite.bib">
+        data-filename="/publication/recoe/cite.bib">
   Cite
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/Wenyueh/LLM-RecSys-ID" target="_blank" rel="noopener">
-  Code
-</a>
-
 
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/LLM4RS/">
+  <a class="btn btn-outline-primary btn-page-header" href="/project/LLM-NLP/">
     Project
   </a>
   
@@ -865,9 +859,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 413px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 347px;">
   <div style="position: relative">
-    <img src="/publication/indexing/featured_hu36a3f0b88bb3afe553f1e1f15bf43009_1075758_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="413" alt="" class="featured-image">
+    <img src="/publication/recoe/featured_hu34631b3d78a227933319772d89a95a3d_300489_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="347" alt="" class="featured-image">
     
   </div>
 </div>
@@ -903,7 +897,7 @@
 </div>
  -->
 <h2 id="abstract">Abstract</h2>
-<p>Recommendation foundation model utilizes large language models (LLM) for recommendation by converting recommendation tasks into natural language tasks. It enables generative recommendation which directly generates the item(s) to recommend rather than calculating a ranking score for each and every candidate item as in traditional recommendation models, simplifying the recommendation pipeline from multi-stage filtering to single-stage filtering. To avoid generating excessively long text and hallucinated recommendations when deciding which item(s) to recommend, creating LLM-compatible item IDs to uniquely identify each item is essential for recommendation foundation models. In this study, we systematically examine the item ID creation and indexing problem for recommendation foundation models, using P5 as an example of the backbone LLM. To emphasize the importance of item indexing, we first discuss the issues of several trivial item indexing methods, such as random indexing, title indexing, and independent indexing. We then propose four simple yet effective solutions, including sequential indexing, collaborative indexing, semantic (content-based) indexing, and hybrid indexing. Our study highlights the significant influence of item indexing methods on the performance of LLM-based recommendation, and our results on real-world datasets validate the effectiveness of our proposed solutions. The research also demonstrates how recent advances on language modeling and traditional IR principles such as indexing can help each other for better learning and inference. Source code and data are available at <a href="https://github.com/Wenyueh/LLM-RecSys-ID" target="_blank" rel="noopener">this url</a>.</p>
+<p>Existing OIE (Open Information Extraction) algorithms are independent of each other such that there exist lots of redundant works; the featured strategies are not reusable and not adaptive to new tasks. This paper proposes a new pipeline to build OIE systems, where an Open-domain Information eXpression (OIX) task is proposed to provide a platform for all OIE strategies. The OIX is an OIE friendly expression of a sentence without information loss. The generation procedure of OIX contains shared works of OIE algorithms so that OIE strategies can be developed on the platform of OIX as inference operations focusing on more critical problems. Based on the same platform of OIX, the OIE strategies are reusable, and people can select a set of strategies to assemble their algorithm for a specific task so that the adaptability may be significantly increased. This paper focuses on the task of OIX and propose a solution–Open Information Annotation (OIA). OIA is a predicate-function-argument annotation for sentences. We label a data set of sentence-OIA pairs and propose a dependency-based rule system to generate OIA annotations from sentences. The evaluation results reveal that learning the OIA from a sentence is a challenge owing to the complexity of natural language sentences, and it is worthy of attracting more attention from the research community.</p>
 </div>
 
     
@@ -929,7 +923,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Findexing%2F&amp;text=How&#43;to&#43;Index&#43;Item&#43;IDs&#43;for&#43;Recommendation&#43;Foundation&#43;Models" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Frecoe%2F&amp;text=Propagation&#43;and&#43;Pitfalls%3A&#43;Reasoning-based&#43;Assessment&#43;of&#43;Knowledge&#43;Editing&#43;through&#43;Counterfactual&#43;Tasks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -946,7 +940,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Findexing%2F&amp;t=How&#43;to&#43;Index&#43;Item&#43;IDs&#43;for&#43;Recommendation&#43;Foundation&#43;Models" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Frecoe%2F&amp;t=Propagation&#43;and&#43;Pitfalls%3A&#43;Reasoning-based&#43;Assessment&#43;of&#43;Knowledge&#43;Editing&#43;through&#43;Counterfactual&#43;Tasks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -965,7 +959,7 @@
         
       
       <li>
-        <a href="mailto:?subject=How%20to%20Index%20Item%20IDs%20for%20Recommendation%20Foundation%20Models&amp;body=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Findexing%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Propagation%20and%20Pitfalls%3A%20Reasoning-based%20Assessment%20of%20Knowledge%20Editing%20through%20Counterfactual%20Tasks&amp;body=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Frecoe%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -982,7 +976,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Findexing%2F&amp;title=How&#43;to&#43;Index&#43;Item&#43;IDs&#43;for&#43;Recommendation&#43;Foundation&#43;Models" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Frecoe%2F&amp;title=Propagation&#43;and&#43;Pitfalls%3A&#43;Reasoning-based&#43;Assessment&#43;of&#43;Knowledge&#43;Editing&#43;through&#43;Counterfactual&#43;Tasks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -999,7 +993,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=How&#43;to&#43;Index&#43;Item&#43;IDs&#43;for&#43;Recommendation&#43;Foundation&#43;Models%20https%3A%2F%2FWenyueh.github.io%2Fpublication%2Findexing%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Propagation&#43;and&#43;Pitfalls%3A&#43;Reasoning-based&#43;Assessment&#43;of&#43;Knowledge&#43;Editing&#43;through&#43;Counterfactual&#43;Tasks%20https%3A%2F%2FWenyueh.github.io%2Fpublication%2Frecoe%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1016,7 +1010,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Findexing%2F&amp;title=How&#43;to&#43;Index&#43;Item&#43;IDs&#43;for&#43;Recommendation&#43;Foundation&#43;Models" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2FWenyueh.github.io%2Fpublication%2Frecoe%2F&amp;title=Propagation&#43;and&#43;Pitfalls%3A&#43;Reasoning-based&#43;Assessment&#43;of&#43;Knowledge&#43;Editing&#43;through&#43;Counterfactual&#43;Tasks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1144,6 +1138,18 @@
 
     </div>
   </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
 
 
   
