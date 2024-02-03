@@ -5,12 +5,39 @@
     <link>https://Wenyueh.github.io/publication/</link>
       <atom:link href="https://Wenyueh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://Wenyueh.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution</title>
+      <link>https://Wenyueh.github.io/publication/trustagent/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/publication/trustagent/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Recent advancements in Large Language Models (LLMs) have shown remarkable capabilities in reasoning, prompting a surge in research aimed at developing trustworthy LLMs. The emergence of LLM-based agents has garnered considerable attention, yet their trustworthiness remains an under-explored area. As agents can directly interact with the physical environment in everyday human activities, their reliability and safety is critical. This paper presents an Agent-Constitution-based agent framework, TrustAgent, an initial investigation into improving the safety dimension of trustworthiness in LLM-based agents. This framework consists of threefold strategies &amp;ndash; pre-planning strategy which injects safety knowledge to the model prior to plan generation, in-planning strategy which bolsters safety during plan generation, and post-planning strategy which ensures safety by post-planning inspection. Through experimental analysis, we demonstrate how these approaches can effectively elevate an LLM agent&amp;rsquo;s safety by identifying and preventing potential challenges. Furthermore, we explore the intricate relationships between safety and helpfulness, and model&amp;rsquo;s reasoning ability and its efficacy as a safe agent. We argue that a robust reasoning ability is a fundamental prerequisite for an LLM to function safely as an agent. This paper underscores the imperative of integrating safety awareness and trustworthiness into the design and deployment of LLM-based agents, not only to enhance their performance but also to ensure their responsible integration into human-centric environments.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks</title>
