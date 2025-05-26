@@ -1,0 +1,18 @@
+{
+  "name": "Wenyue Hua's Homepage",
+  "short_name": "Wenyue Hua's Homepage",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/en/?utm_source=web_app_manifest"
+}
