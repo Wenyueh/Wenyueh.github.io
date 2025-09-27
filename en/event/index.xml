@@ -5,12 +5,28 @@
     <link>https://Wenyueh.github.io/en/event/</link>
       <atom:link href="https://Wenyueh.github.io/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>https://Wenyueh.github.io/en/event/</link>
     </image>
+    
+    <item>
+      <title>Gave an invited talk about Magentic Marketplace at Recsys 2025 EARL workshop!</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-an-invited-talk-about-Magentic-Marketplace-at-Recsys-2025-EARL-workshop/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-an-invited-talk-about-Magentic-Marketplace-at-Recsys-2025-EARL-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gave a 5-minute demo at Made in Microsoft NYC!</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-a-5-minute-demo-at-Made-in-Microsoft-NYC/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-a-5-minute-demo-at-Made-in-Microsoft-NYC/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>8 papers accepted to ACL 2025! Congrats to all my coauthors!</title>

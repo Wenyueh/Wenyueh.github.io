@@ -13,6 +13,103 @@
     </image>
     
     <item>
+      <title>Gave an invited talk about Magentic Marketplace at Recsys 2025 EARL workshop!</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-an-invited-talk-about-Magentic-Marketplace-at-Recsys-2025-EARL-workshop/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-an-invited-talk-about-Magentic-Marketplace-at-Recsys-2025-EARL-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gave a 5-minute demo at Made in Microsoft NYC!</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-a-5-minute-demo-at-Made-in-Microsoft-NYC/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-a-5-minute-demo-at-Made-in-Microsoft-NYC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Speculative Agent Planning</title>
+      <link>https://Wenyueh.github.io/en/publication/dynamicspec/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/publication/dynamicspec/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Despite their remarkable success in complex tasks propelling widespread adoption, large language-model-based agents still face critical deployment challenges due to prohibitive latency and inference costs. While recent work has explored various methods to accelerate inference, existing approaches suffer from significant limitations &amp;ndash; they either fail to preserve performance fidelity, require extensive offline training of router modules, or incur excessive operational costs. Moreover, they provide minimal user control over the tradeoff between acceleration and other performance metrics. To address these gaps, we introduce Dynamic Speculative Planning (DSP), an asynchronous online reinforcement learning framework that provides lossless acceleration with substantially reduced costs without requiring additional pre-deployment preparation. DSP explicitly optimizes a joint objective balancing end-to-end latency against dollar cost, allowing practitioners to adjust a single parameter that steers the system toward faster responses, cheaper operation, or any point along this continuum. Experiments on two standard agent benchmarks demonstrate that DSP achieves comparable efficiency to the fastest lossless acceleration method while reducing total cost by 30% and unnecessary cost up to 60%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Scheduling for LLM Inference</title>
+      <link>https://Wenyueh.github.io/en/publication/semanticscheduling/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/publication/semanticscheduling/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Conventional operating system scheduling algorithms are largely content-ignorant, making decisions based on factors such as latency or fairness without considering the actual intents or semantics of processes. Consequently, these algorithms often do not prioritize tasks that require urgent attention or carry higher importance, such as in emergency management scenarios. However, recent advances in language models enable semantic analysis of processes, allowing for more intelligent and context-aware scheduling decisions. In this paper, we introduce the concept of semantic scheduling in scheduling of requests from large language models (LLM), where the semantics of the process guide the scheduling priorities. We present a novel scheduling algorithm with optimal time complexity, designed to minimize the overall waiting time in LLM-based prompt scheduling. To illustrate its effectiveness, we present a medical emergency management application, underscoring the potential benefits of semantic scheduling for critical, time-sensitive tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning System</title>
+      <link>https://Wenyueh.github.io/en/project/MLSys/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/MLSys/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Machine Learning Systems (MLSys) is an emerging field that sits at the intersection of systems engineering and machine learning, focusing on the practical challenges of deploying, scaling, and optimizing AI systems in real-world environments. MLSys addresses the significant obstacles in designing and implementing systems that support ML models in production, recognizing the radically different development and deployment profiles of modern ML methods compared to traditional software systems. The field encompasses hardware systems for ML, software systems for ML, and optimizations that go beyond predictive accuracy to consider factors like latency, throughput, energy efficiency, and cost-effectiveness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>8 papers accepted to ACL 2025! Congrats to all my coauthors!</title>
       <link>https://Wenyueh.github.io/en/talk/8-papers-accepted-to-ACL-2025-Congrats-to-all-my-coauthors/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>

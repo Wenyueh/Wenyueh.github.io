@@ -2,11 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Wenyueh.github.io/en/talk/8-papers-accepted-to-ACL-2025-Congrats-to-all-my-coauthors/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+    <loc>https://Wenyueh.github.io/en/event/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Wenyueh.github.io/en/event/</loc>
+    <loc>https://Wenyueh.github.io/en/talk/Gave-an-invited-talk-about-Magentic-Marketplace-at-Recsys-2025-EARL-workshop/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/talk/Gave-a-5-minute-demo-at-Made-in-Microsoft-NYC/</loc>
+    <lastmod>2025-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/publication/dynamicspec/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/publication/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/publication/semanticscheduling/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/MLSys/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/talk/8-papers-accepted-to-ACL-2025-Congrats-to-all-my-coauthors/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -27,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/inductionbench/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/publication/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -111,10 +135,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/nphard/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/project/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

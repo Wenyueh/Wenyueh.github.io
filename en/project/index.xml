@@ -5,12 +5,39 @@
     <link>https://Wenyueh.github.io/en/project/</link>
       <atom:link href="https://Wenyueh.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://Wenyueh.github.io/en/project/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning System</title>
+      <link>https://Wenyueh.github.io/en/project/MLSys/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/MLSys/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Machine Learning Systems (MLSys) is an emerging field that sits at the intersection of systems engineering and machine learning, focusing on the practical challenges of deploying, scaling, and optimizing AI systems in real-world environments. MLSys addresses the significant obstacles in designing and implementing systems that support ML models in production, recognizing the radically different development and deployment profiles of modern ML methods compared to traditional software systems. The field encompasses hardware systems for ML, software systems for ML, and optimizations that go beyond predictive accuracy to consider factors like latency, throughput, energy efficiency, and cost-effectiveness.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LLM &amp; NLP</title>
