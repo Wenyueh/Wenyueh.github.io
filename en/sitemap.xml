@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Wenyueh.github.io/en/event/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/talk/Join-the-Webinar-talk-hosted-by-HireEz-talking-about-AIs-impact-on-job-market/</loc>
@@ -116,6 +120,10 @@
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/disentangling_logic/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-European-Social-Simulation-Association-ESSA-annual-conference-on-WarAgent/</loc>
+    <lastmod>2024-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/BattleAgent/</loc>

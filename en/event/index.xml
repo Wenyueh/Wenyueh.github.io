@@ -5,12 +5,20 @@
     <link>https://Wenyueh.github.io/en/event/</link>
       <atom:link href="https://Wenyueh.github.io/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>https://Wenyueh.github.io/en/event/</link>
     </image>
+    
+    <item>
+      <title>Gave a talk about Magentic Marketplace at Columbia Agent Workshop</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Join the Webinar talk hosted by HireEz talking about AI&#39;s impact on job market!</title>
@@ -137,6 +145,14 @@
       <link>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-BIMSA-Beijing-Institute-of-Mathematical-Sciences-and-Applications-on-LLM-based-Agent-on-decision-making-in-international-relationships-and-game-theory./</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-BIMSA-Beijing-Institute-of-Mathematical-Sciences-and-Applications-on-LLM-based-Agent-on-decision-making-in-international-relationships-and-game-theory./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gave a talk at European Social Simulation Association (ESSA) annual conference on WarAgent</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-European-Social-Simulation-Association-ESSA-annual-conference-on-WarAgent/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-European-Social-Simulation-Association-ESSA-annual-conference-on-WarAgent/</guid>
       <description></description>
     </item>
     

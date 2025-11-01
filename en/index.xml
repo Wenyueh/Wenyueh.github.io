@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Gave a talk about Magentic Marketplace at Columbia Agent Workshop</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Join the Webinar talk hosted by HireEz talking about AI&#39;s impact on job market!</title>
       <link>https://Wenyueh.github.io/en/talk/Join-the-Webinar-talk-hosted-by-HireEz-talking-about-AIs-impact-on-job-market/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
@@ -410,6 +418,14 @@ Our research contributes to a deeper understanding of LLMs&amp;rsquo; decision-m
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This study intends to systematically disentangle pure logic reasoning and text understanding by investigating the contrast across abstract and contextualized logical problems from a comprehensive set of domains. We explore whether LLMs demonstrate genuine reasoning capabilities across various domains when the underlying logical structure remains constant. We focus on two main questions (1) Can abstract logical problems alone accurately benchmark an LLM&amp;rsquo;s reasoning ability in real-world scenarios, disentangled from contextual support in practical settings? (2) Does fine-tuning LLMs on abstract logic problem generalize to contextualized logic problems and vice versa? To investigate these questions, we focus on standard propositional logic, specifically propositional deductive and abductive logic reasoning. In particular, we construct instantiated datasets for deductive and abductive reasoning with 4 levels of difficulty, encompassing 12 distinct categories or domains based on the categorization of Wikipedia. Our experiments aim to provide insights into disentangling context in logical reasoning and the true reasoning capabilities of LLMs and their generalization potential.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Gave a talk at European Social Simulation Association (ESSA) annual conference on WarAgent</title>
+      <link>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-European-Social-Simulation-Association-ESSA-annual-conference-on-WarAgent/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Gave-a-talk-at-European-Social-Simulation-Association-ESSA-annual-conference-on-WarAgent/</guid>
+      <description></description>
     </item>
     
     <item>
