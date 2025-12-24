@@ -5,7 +5,7 @@
     <link>https://Wenyueh.github.io/en/</link>
       <atom:link href="https://Wenyueh.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenyue Hua&#39;s Homepage</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png</url>
       <title>Wenyue Hua&#39;s Homepage</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Gave a talk about Magentic Marketplace at Columbia Agent Workshop</title>
+      <title>Our workshop on Memory Layer for Agentic Systems (MemAgents) was accepted to ICLR 2026!</title>
+      <link>https://Wenyueh.github.io/en/talk/Our-workshop-on-Memory-Layer-for-Agentic-Systems-MemAgents-was-accepted-to-ICLR-2026/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Our-workshop-on-Memory-Layer-for-Agentic-Systems-MemAgents-was-accepted-to-ICLR-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gave a talk about Magentic Marketplace at Columbia Agent Workshop!</title>
       <link>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</guid>

@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Wenyueh.github.io/en/</loc>
+    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Wenyueh.github.io/en/event/</loc>
-    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/talk/Our-workshop-on-Memory-Layer-for-Agentic-Systems-MemAgents-was-accepted-to-ICLR-2026/</loc>
+    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/talk/Gave-a-talk-about-Magentic-Marketplace-at-Columbia-Agent-Workshop/</loc>
@@ -192,10 +200,6 @@
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/domino/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/system12/</loc>
