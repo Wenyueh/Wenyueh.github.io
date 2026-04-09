@@ -5,12 +5,52 @@
     <link>https://Wenyueh.github.io/en/event/</link>
       <atom:link href="https://Wenyueh.github.io/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>https://Wenyueh.github.io/en/event/</link>
     </image>
+    
+    <item>
+      <title>Our paper on Quantifying Trust is spotlighted in Fortune!</title>
+      <link>https://Wenyueh.github.io/en/talk/Our-paper-on-Quantifying-Trust-is-spotlighted-in-Fortune/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Our-paper-on-Quantifying-Trust-is-spotlighted-in-Fortune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgentOpt v0.1 Technical Report is out!</title>
+      <link>https://Wenyueh.github.io/en/talk/AgentOpt-v0.1-Technical-Report-is-out/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/AgentOpt-v0.1-Technical-Report-is-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper released: Quantifying Trust: Financial Risk Management for Trustworthy AI Agents</title>
+      <link>https://Wenyueh.github.io/en/talk/New-paper-released-Quantifying-Trust-Financial-Risk-Management-for-Trustworthy-AI-Agents/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/New-paper-released-Quantifying-Trust-Financial-Risk-Management-for-Trustworthy-AI-Agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgentOpt is released! A framework-agnostic Python package for client-side optimization of LLM-based agents.</title>
+      <link>https://Wenyueh.github.io/en/talk/AgentOpt-is-released-A-framework-agnostic-Python-package-for-client-side-optimization-of-LLM-based-agents./</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/AgentOpt-is-released-A-framework-agnostic-Python-package-for-client-side-optimization-of-LLM-based-agents./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very honored to be able to give an invited talk at Fermilab: From Philosophy of Language to AI Agent.</title>
+      <link>https://Wenyueh.github.io/en/talk/Very-honored-to-be-able-to-give-an-invited-talk-at-Fermilab-From-Philosophy-of-Language-to-AI-Agent./</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/Very-honored-to-be-able-to-give-an-invited-talk-at-Fermilab-From-Philosophy-of-Language-to-AI-Agent./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Our workshop on Memory Layer for Agentic Systems (MemAgents) was accepted to ICLR 2026!</title>
