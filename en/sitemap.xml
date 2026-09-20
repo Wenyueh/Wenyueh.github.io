@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Wenyueh.github.io/en/project/strategic-agents/</loc>
+    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/trustworthy-agents/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/efficient-agents/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/reasoning-evaluation/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/generative-recommendation/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/linguistics/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Wenyueh.github.io/en/event/</loc>
     <lastmod>2026-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,6 +35,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/talk/New-paper-From-Passive-Delegates-to-Strategic-Negotiators-SocialRL-RL-trained-small-models-that-negotiate-on-par-with-frontier-models./</loc>
+    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Wenyueh.github.io/en/project/</loc>
     <lastmod>2026-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -76,14 +104,6 @@
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/semanticscheduling/</loc>
     <lastmod>2025-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/project/MLSys/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/project/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/talk/8-papers-accepted-to-ACL-2025-Congrats-to-all-my-coauthors/</loc>
@@ -190,20 +210,12 @@
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Wenyueh.github.io/en/project/LLM-NLP/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Wenyueh.github.io/en/publication/nphard/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/LLMAO/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/project/Agent/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/WarAgent/</loc>
@@ -220,10 +232,6 @@
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/indexing/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/project/LLM4RS/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/OpenAGI/</loc>
@@ -244,10 +252,6 @@
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/entqa/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Wenyueh.github.io/en/project/linguistics/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Wenyueh.github.io/en/publication/icgi/</loc>

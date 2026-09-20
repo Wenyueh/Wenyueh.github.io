@@ -13,6 +13,66 @@
     </image>
     
     <item>
+      <title>Strategic and Social Decision-Making</title>
+      <link>https://Wenyueh.github.io/en/project/strategic-agents/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/strategic-agents/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This line runs from simulation to training. On the simulation side, multi-agent systems reproduce historical conflict and collective behavior at scale, which lets us examine the triggers and conditions that lead to war rather than only its outcomes. On the analysis side, game-theoretic evaluation shows where LLMs depart from rational play as payoff matrices grow and sequential trees deepen, and structured workflows steer them back toward equilibrium and better negotiation outcomes. On the training side, reinforcement learning targets social reasoning directly, so that a small model can match frontier systems at negotiation in domain rather than inheriting the dispositions of a general-purpose assistant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Agents: Safety, Risk, and Privacy</title>
+      <link>https://Wenyueh.github.io/en/project/trustworthy-agents/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/trustworthy-agents/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Agent trustworthiness is not a single property. Safety can be built into the planning loop itself, through an agent constitution that injects safety knowledge before a plan is generated, constrains generation while it happens, and inspects the result afterwards. Privacy is a separate axis: cloud models see everything a user sends them, so prompts can be obfuscated generatively and still complete the task. Beyond the model, there is the question of what a user is owed when an agent fails. Treating that as a settlement problem rather than a purely technical one turns trust from an implicit expectation about model behavior into an explicit and enforceable guarantee.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient Agent Systems</title>
+      <link>https://Wenyueh.github.io/en/project/efficient-agents/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/efficient-agents/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Efficiency for agents is not the same problem as efficiency for a single model call. The structure of the agent, not just the size of the model, drives the cost. Speculative execution lets a small model run ahead while a large one verifies, which cuts planning latency, and co-designing it with an interface that treats human interruption as a normal event rather than an exception makes the speedup usable. Making the speculation policy adaptive turns the latency and dollar cost tradeoff into a single parameter a practitioner can set. A related question sits above the model call entirely: given a pipeline with several stages, which model should serve each one. The gap between the best and worst assignment is large enough to dominate other optimizations, and search methods find near-optimal assignments at a fraction of the evaluation budget.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reasoning and Evaluation</title>
+      <link>https://Wenyueh.github.io/en/project/reasoning-evaluation/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/reasoning-evaluation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Most reasoning benchmarks emphasize deduction, where the rules are given and the task is to apply them. Organizing tasks by complexity class instead gives a principled difficulty axis and a way to say precisely what a model can and cannot do, and refreshing the instances regularly keeps the benchmark from being absorbed into the next round of training data. Induction, where the rule itself has to be inferred from observations, is the more demanding direction and the one closer to scientific discovery, and current models struggle with even its simplest classes. Alongside benchmark construction, this line covers how context shapes apparent reasoning ability, how reasoning behaves under test-time scaling, and how to find the slices of data where a system quietly fails.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generative Recommendation</title>
+      <link>https://Wenyueh.github.io/en/project/generative-recommendation/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/generative-recommendation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collapsing a multi-stage retrieval and ranking pipeline into single-stage generation is appealing, but it creates a problem that does not exist in traditional recommenders: the model has to produce an identifier that refers to exactly one real item. How those identifiers are constructed turns out to drive performance substantially, and indexing schemes that carry sequential, collaborative, or semantic structure behave very differently from arbitrary ones. This line also covers fairness in recommendation foundation models and open benchmarks for comparing them, and it connects recent language modeling back to long-standing information retrieval principles about what an index is for.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formal and Computational Linguistics</title>
+      <link>https://Wenyueh.github.io/en/project/linguistics/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/project/linguistics/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Formal linguistics studies language with methods from mathematics and logic, building precise models of syntax, semantics, and phonology. The learning-theoretic side asks which classes of functions are learnable from which kinds of data, and the subregular hierarchy gives a fine-grained way to locate a phonological or morphological process by the computational power it requires. That framing carries over directly into how I evaluate language models today: the same hierarchy that classifies a phonological rule can define the difficulty of an induction benchmark. This line also covers semantics of disjunction in generic sentences, complexity in optional phonological processes, and structured annotation of natural language for open-domain information extraction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL</title>
       <link>https://Wenyueh.github.io/en/publication/socialrl/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
@@ -182,33 +242,6 @@
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Conventional operating system scheduling algorithms are largely content-ignorant, making decisions based on factors such as latency or fairness without considering the actual intents or semantics of processes. Consequently, these algorithms often do not prioritize tasks that require urgent attention or carry higher importance, such as in emergency management scenarios. However, recent advances in language models enable semantic analysis of processes, allowing for more intelligent and context-aware scheduling decisions. In this paper, we introduce the concept of semantic scheduling in scheduling of requests from large language models (LLM), where the semantics of the process guide the scheduling priorities. We present a novel scheduling algorithm with optimal time complexity, designed to minimize the overall waiting time in LLM-based prompt scheduling. To illustrate its effectiveness, we present a medical emergency management application, underscoring the potential benefits of semantic scheduling for critical, time-sensitive tasks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning System</title>
-      <link>https://Wenyueh.github.io/en/project/MLSys/</link>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/en/project/MLSys/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Machine Learning Systems (MLSys) is an emerging field that sits at the intersection of systems engineering and machine learning, focusing on the practical challenges of deploying, scaling, and optimizing AI systems in real-world environments. MLSys addresses the significant obstacles in designing and implementing systems that support ML models in production, recognizing the radically different development and deployment profiles of modern ML methods compared to traditional software systems. The field encompasses hardware systems for ML, software systems for ML, and optimizations that go beyond predictive accuracy to consider factors like latency, throughput, energy efficiency, and cost-effectiveness.&lt;/p&gt;
 </description>
     </item>
     
@@ -651,33 +684,6 @@ Our research contributes to a deeper understanding of LLMs&amp;rsquo; decision-m
     </item>
     
     <item>
-      <title>LLM &amp; NLP</title>
-      <link>https://Wenyueh.github.io/en/project/LLM-NLP/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/en/project/LLM-NLP/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Large language models (LLMs) like OpenAI&amp;rsquo;s GPT series have revolutionized the field of natural language processing (NLP) by demonstrating an impressive ability to understand and generate human language. A key aspect of these models is their reasoning ability, which is a subject of growing interest and investigation. I am particularly focused on exploring the reasoning capabilities in LLMs. This includes understanding the mechanisms that facilitate reasoning within these models, assessing the extent to which LLMs are capable of conducting reasoning processes, and discerning between genuine reasoning and the mere mimicking of patterns observed in pre-trained data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes</title>
       <link>https://Wenyueh.github.io/en/publication/nphard/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
@@ -728,33 +734,6 @@ Our research contributes to a deeper understanding of LLMs&amp;rsquo; decision-m
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This paper envisions a revolutionary AIOS-Agent ecosystem, where Large Language Model (LLM) serves as the (Artificial) Intelligent Operating System (IOS, or AIOS)&amp;ndash;an operating system &amp;ldquo;with soul&amp;rdquo;. Upon this foundation, a diverse range of LLM-based AI Agent Applications (Agents, or AAPs) are developed, enriching the AIOS-Agent ecosystem and signaling a paradigm shift from the traditional OS-APP ecosystem. We envision that LLMs impact will not be limited to the AI application level, instead, it will in turn revolutionize the design and implementation of computer system, architecture, software, and programming language, featured by several main concepts. LLM as OS (system-level), Agents as Applications (application-level), Natural Language as Programming Interface (user-level), and Tools as Devices/Libraries (hardware/middleware-level). In this paper, we begin by introducing the architecture and historical evolution of traditional Operating Systems (OS). Then we formalize a conceptual framework for AIOS through &amp;ldquo;LLM as OS (LLMAO)&amp;rdquo;, drawing analogies between AIOS components and traditional OS elements. LLM is likened to OS kernel, context window to memory, external storage to file system, hardware tools to peripheral devices, software tools to programming libraries, and user prompts to user commands. Subsequently, we introduce the new AIOS-Agent Ecosystem, where users and developers can easily program Agent Applications (AAPs) using natural language, democratizing the development of and the access to computer software, which is different from the traditional OS-APP ecosystem, where desktop or mobile applications (APPs) have to be programmed by well-trained software developers using professional programming languages. Following this, we explore the diverse scope of Agent Applications. These agents can autonomously perform diverse tasks, showcasing intelligent task-solving ability in various scenarios. We delve into both single agent systems and multi-agent systems, as well as human-agent interaction. Lastly, we posit that the AIOS-Agent ecosystem can gain invaluable insights from the development trajectory of the traditional OS-APP ecosystem. Drawing on these insights, we propose a strategic roadmap for the evolution of the AIOS-Agent ecosystem. This roadmap is designed to guide the future research and development, suggesting systematic progresses of AIOS and its Agent applications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LLM-based Agent and Multi-agent System</title>
-      <link>https://Wenyueh.github.io/en/project/Agent/</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/en/project/Agent/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Artificial Intelligence (AI) aims to emulate Human Intelligence (HI) in combining basic skills to address complex tasks. AI agents is an especially important step the development of AI, which should integrate expert models and external tools for solving intricate problems, a step towards achieving Artificial General Intelligence (AGI). Large Language Models (LLMs) demonstrate notable capabilities in learning and reasoning and are proficient in employing external models, tools, plugins, or APIs for complex problem-solving. LLM-based agents are essentially LLMs enhanced with access to these additional resources.&lt;/p&gt;
 </description>
     </item>
     
@@ -863,33 +842,6 @@ Our research contributes to a deeper understanding of LLMs&amp;rsquo; decision-m
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Recommendation foundation model utilizes large language models (LLM) for recommendation by converting recommendation tasks into natural language tasks. It enables generative recommendation which directly generates the item(s) to recommend rather than calculating a ranking score for each and every candidate item as in traditional recommendation models, simplifying the recommendation pipeline from multi-stage filtering to single-stage filtering. To avoid generating excessively long text and hallucinated recommendations when deciding which item(s) to recommend, creating LLM-compatible item IDs to uniquely identify each item is essential for recommendation foundation models. In this study, we systematically examine the item ID creation and indexing problem for recommendation foundation models, using P5 as an example of the backbone LLM. To emphasize the importance of item indexing, we first discuss the issues of several trivial item indexing methods, such as random indexing, title indexing, and independent indexing. We then propose four simple yet effective solutions, including sequential indexing, collaborative indexing, semantic (content-based) indexing, and hybrid indexing. Our study highlights the significant influence of item indexing methods on the performance of LLM-based recommendation, and our results on real-world datasets validate the effectiveness of our proposed solutions. The research also demonstrates how recent advances on language modeling and traditional IR principles such as indexing can help each other for better learning and inference. Source code and data are available at &lt;a href=&#34;https://github.com/Wenyueh/LLM-RecSys-ID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this url&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LLM for Recommender System</title>
-      <link>https://Wenyueh.github.io/en/project/LLM4RS/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/en/project/LLM4RS/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The integration of foundation models like Large Language Models (LLMs) into recommender systems (RS) marks a significant advancement in the field. Adapting LLMs to recommender systems that manage billions of users and items presents a complex yet crucial challenge. This exploration delves into the benefits and potential issues of utilizing LLMs within recommender systems, contributing to advancements in this area.&lt;/p&gt;
 </description>
     </item>
     
@@ -1025,33 +977,6 @@ Our research contributes to a deeper understanding of LLMs&amp;rsquo; decision-m
  --&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;A conventional approach to entity linking is to first find mentions in a given document and then infer their underlying entities in the knowledge base. A well-known limitation of this approach is that it requires finding mentions without knowing their entities, which is unnatural and difficult. We present a new model that does not suffer from this limitation called EntQA, which stands for Entity linking as Question Answering. EntQA first proposes candidate entities with a fast retrieval module, and then scrutinizes the document to find mentions of each candidate with a powerful reader module. Our approach combines progress in entity linking with that in open-domain question answering and capitalizes on pretrained models for dense entity retrieval and reading comprehension. Unlike in previous works, we do not rely on a mention-candidates dictionary or large-scale weak supervision. EntQA achieves strong results on the GERBIL benchmarking platform.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Formal Linguistics and Computational Linguistics</title>
-      <link>https://Wenyueh.github.io/en/project/linguistics/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Wenyueh.github.io/en/project/linguistics/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Formal linguistics is a branch of linguistics that focuses on the study of language using formal methods derived from mathematics and logic. It aims to understand the underlying structure of language by constructing precise, well-defined models of its syntax, semantics, and phonology. The key aspects of formal linguistics include (1) Syntax &amp;ndash; This involves the study of the rules and principles that govern the structure of sentences. Formal syntactic theories explore how words combine to form grammatical sentences and the underlying rules that govern these combinations. (2) Semantics &amp;ndash; This aspect deals with the meaning of words, phrases, and sentences. Formal semantics seeks to represent and analyze the ways in which linguistic expressions can convey different meanings in different contexts. (3) Phonology &amp;ndash; This is the study of the sound systems of languages, including the rules for combining sounds into meaningful units or words. Formal phonology models the abstract sound structures of language and their functional roles.&lt;/p&gt;
 </description>
     </item>
     
