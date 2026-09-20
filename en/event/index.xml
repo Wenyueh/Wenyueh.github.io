@@ -5,12 +5,21 @@
     <link>https://Wenyueh.github.io/en/event/</link>
       <atom:link href="https://Wenyueh.github.io/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Wenyueh.github.io/media/icon_hu28e75b20e0960b59a80b3957130a4393_3130320_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>https://Wenyueh.github.io/en/event/</link>
     </image>
+    
+    <item>
+      <title>New paper: From Passive Delegates to Strategic Negotiators (SocialRL), RL-trained small models that negotiate on par with frontier models.</title>
+      <link>https://Wenyueh.github.io/en/talk/New-paper-From-Passive-Delegates-to-Strategic-Negotiators-SocialRL-RL-trained-small-models-that-negotiate-on-par-with-frontier-models./</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://Wenyueh.github.io/en/talk/New-paper-From-Passive-Delegates-to-Strategic-Negotiators-SocialRL-RL-trained-small-models-that-negotiate-on-par-with-frontier-models./</guid>
+      <description>&lt;p&gt;Read the paper on &lt;a href=&#34;https://arxiv.org/abs/2608.13787&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv (2608.13787)&lt;/a&gt;, or see the &lt;a href=&#34;https://Wenyueh.github.io/en/publication/socialrl/&#34;&gt;publication page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our paper on Quantifying Trust is spotlighted in Fortune!</title>
